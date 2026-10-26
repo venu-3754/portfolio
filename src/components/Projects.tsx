@@ -63,7 +63,7 @@ const allProjects = [
     techStack: ["ReactJS", "Type Script","Vite"],
     icon: Globe,
     github: "https://github.com/venu-3754/portfolio",
-    demo: "#"
+    demo: "https://songavenugopal.netlify.app/"
   },
   {
     category: "Web Development",

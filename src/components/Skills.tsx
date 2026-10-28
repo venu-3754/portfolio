@@ -2,10 +2,10 @@ import React from 'react';
 import { Code, Database, Wrench, MessageSquare, Sparkles } from 'lucide-react';
 
 const skillsData = {
-  sophos: {
-    title: "Sophos Tools",
+  currently_learning: {
+    title: "Currently Learning",
     icon: Code,
-    skills: ["Currently Learning via Sophos Training & hands-on Labs"]
+    skills: ["Sophos Central", "Sophos Firewall", "Sophos Endpoint", "Sophos XDR & SIEM"]
   },
   programming: {
     title: "Programming",

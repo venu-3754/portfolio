@@ -37,7 +37,8 @@ const skillsData = {
     skills: {
       Frontend: ["HTML5", "CSS3", "JavaScript", "ReactJS", "Bootstrap","Tailwind CSS"],
       Backend : ["NodeJS", "Flask"],
-      Database: ["MySQL", "MongoDB"]
+      Database: ["MySQL", "MongoDB"],
+      Cloud: ["AWS", "Microsoft Azure"]
     }
   },
   

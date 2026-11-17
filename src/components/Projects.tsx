@@ -38,7 +38,7 @@ const allProjects = [
     techStack: ["Cisco Packet Tracer", "Network Design", "Network Topology", "Network Toubleshooting", "DHCP", "Subnetting"],
     icon: BookOpen,
     github: "https://github.com/venu-3754/small-office-network-design",
-    demo: "https://github.com/venu-3754/small-office-network-design"
+    demo: "https://venu-3754.github.io/small-office-network-design/"
   },
   {
     category: "Cybersecurity",

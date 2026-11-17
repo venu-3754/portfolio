@@ -33,6 +33,15 @@ const allProjects = [
   },
   {
     category: "Cybersecurity",
+    title: "Small Office Network Design using Cisco Packet Tracer",
+    description: "Designed and configured a small office network using Cisco Packet Tracer, implementing subnetting, DHCP, routing and network troubleshooting.",
+    techStack: ["Cisco Packet Tracer", "Network Design", "Network Topology", "Network Toubleshooting", "DHCP", "Subnetting"],
+    icon: BookOpen,
+    github: "https://github.com/venu-3754/small-office-network-design",
+    demo: "https://github.com/venu-3754/small-office-network-design"
+  },
+  {
+    category: "Cybersecurity",
     title: "Enterprise Network Security Assessment using Nmap",
     description: "Tested a public server to identify active hosts, open ports, running services, operating system information, and overall security posture.",
     techStack: ["Nmap", "Command Line", "Network Security Assessment", "Windows 11"],
